@@ -4,7 +4,7 @@ I created this Live course for Data Professionals so that they can learn Python 
 
 This roadmap is designed to get a good grip on python programming, logic building, solving algorithm-based questions, understanding of data analytics, working with pandas, professional practices, and API building.
 
-
+![Python Header](https://github.com/hemansnation/Python-For-Data-Professionals/blob/main/images/header.png)
 
 # The only course you need to build a strong foundation of Python for your data journey.
 
@@ -34,7 +34,7 @@ This roadmap is designed to get a good grip on python programming, logic buildin
 11 | Projects<br>
 12 | Resource collection, Interview Questions, What to do Next? How to approach Data Science.<br>
 
-
+![Notion Tempate](https://github.com/hemansnation/Python-For-Data-Professionals/blob/main/images/notion.gif)
 
 [Get the detailed Roadmap Here](https://www.notion.so/god-level-python/Python-for-Data-Professionals-12-Days-Live-Course-8e3717c428e64c2fbb58546b036d80de)
 
@@ -55,6 +55,10 @@ This roadmap is designed to get a good grip on python programming, logic buildin
 - You will know how to work with data.
 - You will gain Hands-on experience working with data sets, including cleaning, transforming, and visualizing data.
 - You will get access to course materials, including lecture notes, code snippets, and exercise problems, as well as a community of like-minded professionals who are also taking the course.
+
+# Instructor
+
+![Himanshu Ramchandani](https://github.com/hemansnation/Python-For-Data-Professionals/blob/main/images/instructorhimanshu.png)
 
 
 # Starting 4th February 2023
