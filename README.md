@@ -21,29 +21,18 @@ This roadmap is designed to get a good grip on python programming, logic buildin
 ## It is divided into 12 Chapters 👇
 
 
-1 | While Loops, Lists, Strings
-
-2 | For Loop, Dictionary, Tuples, Set
-
-3 | Object-Oriented Programming
-
-4 | Modules, Packages, and PIP
-
-5 | Functions & Higher-Order Functions
-
-6 | Virtual Environment, Flask, and Python Web Scrapping
-
-7 | Building API, Python with MongoDB Database
-
-8 | Statistics with NumPy
-
-9 | Data Analysis with Pandas
-
-10 | Data Visualization with Matplotlib
-
-11 | Projects
-
-12 | Resource collection, Interview Questions, What to do Next? How to approach Data Science.
+1 | While Loops, Lists, Strings<br>
+2 | For Loop, Dictionary, Tuples, Set<br>
+3 | Object-Oriented Programming<br>
+4 | Modules, Packages, and PIP<br>
+5 | Functions & Higher-Order Functions<br>
+6 | Virtual Environment, Flask, and Python Web Scrapping<br>
+7 | Building API, Python with MongoDB Database<br>
+8 | Statistics with NumPy<br>
+9 | Data Analysis with Pandas<br>
+10 | Data Visualization with Matplotlib<br>
+11 | Projects<br>
+12 | Resource collection, Interview Questions, What to do Next? How to approach Data Science.<br>
 
 
 
