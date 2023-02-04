@@ -62,10 +62,4 @@ This roadmap is designed to get a good grip on python programming, logic buildin
 
 
 # Starting 4th February 2023
-
-# [Book Your Seat Now](https://book.stripe.com/6oEdTYdLP2jEd5C3ce)
-
-# If you are from India -> [Book Here](https://book.stripe.com/bIYcPU37b9M66He147)
-
-### Note: Once you book the seat, you will get a WhatsApp closed group link, Join that group.
-
+# Registration Closed
