@@ -1,0 +1,12 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+src/descriptive/__init__.py
+src/descriptive/dstatistics.py
+src/inferential/__init__.py
+src/inferential/istatitstics.py
+src/mathematics_meme.egg-info/PKG-INFO
+src/mathematics_meme.egg-info/SOURCES.txt
+src/mathematics_meme.egg-info/dependency_links.txt
+src/mathematics_meme.egg-info/top_level.txt
